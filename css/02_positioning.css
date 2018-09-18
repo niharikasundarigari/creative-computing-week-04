@@ -10,9 +10,14 @@ body {
 
 }
 
+.content{
+	position:relative;
+}
+
 .box {
   width: 200px;
   height: 300px;
   background-color: gray;
   color: white;
+  position:absolute;
 }
